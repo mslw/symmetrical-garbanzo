@@ -2,3 +2,7 @@
 	path = bar
 	url = ./bar
 	datalad-id = 7dfcc05d-b7ba-4b32-b7b0-9f9bb6edcf9d
+[submodule "baz"]
+	path = baz
+	url = ./baz
+	datalad-id = 50c88df4-839c-4ffb-9c81-f38d254d5741
